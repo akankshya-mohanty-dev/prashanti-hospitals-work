@@ -18,9 +18,6 @@
 - Resolve QA and UAT findings in operating theatre, nursing, insurance claims and billing, discharge and emergency modules.
 - Record each fix with test evidence.
 
-### A Next.js and Supabase web application
-- Built the application and prepared it for production, with environment templates and lint cleanup.
-
 ## Technologies
 
 Next.js, React, Supabase, REST APIs, browser-based video (LiveKit), Git.
